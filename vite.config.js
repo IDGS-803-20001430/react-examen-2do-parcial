@@ -14,9 +14,15 @@ export default defineConfig({
       injectRegister: 'auto',
       includeAssets: ['/android','/ios', '/windows11'],
       manifest: {
+<<<<<<< HEAD
           name: 'EXAMEN PARCIAL DOS',
           short_name: 'PWA EXAMEN 2DO',
           description: 'React Pwa Examen',
+=======
+          name: 'EXAMEN SEGUNDO PARCIAL',
+          short_name: 'PWA EXAMEN',
+          description: 'React Pwa Ecommerce',
+>>>>>>> examen-jessy
           theme_color: '#ffffff',
           "icons": [
             {
