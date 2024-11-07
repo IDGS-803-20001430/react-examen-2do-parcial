@@ -14,9 +14,9 @@ export default defineConfig({
       injectRegister: 'auto',
       includeAssets: ['/android','/ios', '/windows11'],
       manifest: {
-          name: 'PWA VITE RESISTENCIAS',
-          short_name: 'PWA RESISTENCIAS',
-          description: 'React and vite resistencias app',
+          name: 'EXAMEN SEGUNDO PARCIAL',
+          short_name: 'PWA EXAMEN',
+          description: 'React Pwa Ecommerce',
           theme_color: '#ffffff',
           "icons": [
             {
